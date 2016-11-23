@@ -12,5 +12,7 @@
 ```
 
 ### How to change the clock's size
-change <canvas> height and width 
+
+change <canvas> height and width
+
 *notice:the height must equal to width*
