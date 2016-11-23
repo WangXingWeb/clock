@@ -1,5 +1,8 @@
 # clock.js
 
+### effect
+![clock](https://github.com/WangXingWeb/clock.js/blob/master/clock.png)
+
 ### Use example
 
 ```html/javascript
