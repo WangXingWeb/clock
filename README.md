@@ -23,4 +23,4 @@
 
 change <canvas> height and width
 
-_notice:the height must equal to width_
+_notice:the height must equal to width
