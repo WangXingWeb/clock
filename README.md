@@ -3,6 +3,7 @@
 ## demo
 
 ![clock](https://iwangxing.cn/clock/clock.png)
+
 [demo](https://iwangxing.cn/clock/index.html)
 
 ## how to use
@@ -23,4 +24,4 @@
 
 change <canvas> height and width
 
-_notice:the height must equal to width
+\_notice:the height must equal to width
