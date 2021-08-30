@@ -1,21 +1,26 @@
 # clock.js
 
-### effect
-![clock](https://github.com/WangXingWeb/clock.js/blob/master/clock.png)
+## demo
 
-### Use example
+![clock](https://iwangxing.cn/clock/clock.png)
+[demo](https://iwangxing.cn/clock/index.html)
+
+## how to use
 
 ```html/javascript
 <body>
     <div class="container">
-        <canvas  height="300px" width="300px" id="clock"></canvas>
+        <canvas height="300px" width="300px" id="clock"></canvas>
     </div>
-<script type="text/javascript" src="clock.js"></script>
+    <script type="text/javascript" src="clock.js"></script>
+    <script>
+        drawClock("clock");
+    </script>
 </body>
 ```
 
-### How to change the clock's size
+## How to change the clock's size
 
 change <canvas> height and width
 
-*notice:the height must equal to width*
+_notice:the height must equal to width_
